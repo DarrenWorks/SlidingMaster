@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlidingMaster</string>
+    <string name="toast_no_permission">无此权限</string>
+    <string name="btn_manage_path">管理文件夹</string>
+</resources>
